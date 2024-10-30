@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on Front end Projects<br>🌱 I’m currently learning more about React<br>⚡ Fun fact: i study Game Design too
+👯 I’m looking to collaborate on Front-end Projects<br>🌱 I’m currently learning more about React<br>⚡ Fun fact: i study Game Design too
 
 
 ## 🌐 Socials:
