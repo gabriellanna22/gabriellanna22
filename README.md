@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">👋 Hi, I'm Gabriel!<br><br>I'm a Game Programmer and Game Designer specializing in Unity and C#.  <br>I love building gameplay systems, UI flows, and designing mechanics that feel great to play.<br><br>- 🎮 Experience with Unity, C#, gameplay programming and UI/UX.<br>- ✏️ Background in Game Design (Anhembi Morumbi).<br>- 🧩 Passionate about prototyping and solving problems creatively.<br>- 🚀 Looking for remote opportunities as a Unity Developer or Game Programmer.<br><br>Always learning, always building.  <br>Feel free to check out my projects or reach out!</p>
+<p align="left">👋 Hi, I'm Gabriel!<br><br>I'm a Game Programmer and Game Designer specializing in Unity and C#.  <br>I love building gameplay systems, UI flows, and designing mechanics that feel great to play.<br><br>- 🎮 Experience with Unity, C#, gameplay programming and UI/UX.<br>- ✏️ Bachelor in Game Design (Anhembi Morumbi).<br>- 🧩 Passionate about prototyping and solving problems creatively.<br>- 🚀 Looking for remote opportunities as a Unity Developer or Game Programmer.<br><br>Always learning, always building.  <br>Feel free to check out my projects or reach out!</p>
 
 ###
 
